@@ -1,9 +1,5 @@
-// Cengiz ÇAKIR
-// 040190036
-/*
-Since I had no prior knowledge in digital design and vivado, the homework has been tough to me. I am not sure I am ended up with a fully working code
-however, I tried my best and tried to make a finite state machine with 4 states. 
-*/ 
+// Cengiz Ã‡AKIR
+
 
 
 module convolution #(parameter logic [1:0][1:0] filter = '{'{1, 0}, '{0, 1}}) (
